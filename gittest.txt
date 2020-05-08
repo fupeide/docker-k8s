@@ -1,0 +1,29 @@
+SN:1019B0103463        
+VersionUSG6300E V600R007C00SPC200
+[Upgrade]
+Device Name
+USG6300E
+
+
+公司名称：海茵建筑设计咨询（北京）有限公司 
+税号：91110105082866528E
+公司地址:北京市朝阳区工人体育场北路8号院1-2102室
+电话：010-57853193
+公司开户行：中国工商银行股份有限公司北京商务中心区支行
+
+"Mountpoint": "C:\\ProgramData\\Docker\\volumes\\nginx_vol\\_data",
+
+mysql-community-release-el7-5.noarch.rpm
+mysql-community-release-el7-5.noarch.rpm
+
+
+/usr/java/jdk1.8.0_171-amd64/
+
+export JAVA_HOME=/usr/java/jdk1.8.0_171-amd64/
+export CLASSPATH=.:$JAVA_HOME/lib:$JAVA_HOME/jre/lib
+export PATH=$JAVA_HOME/bin:$JAVA_HOME/jre/bin:$PATH
+
+https://github.com/loongkoo/mysql.rpm.git
+
+
+18ee5779be35448ab09269f2df02c20b
